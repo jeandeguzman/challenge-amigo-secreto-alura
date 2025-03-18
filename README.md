@@ -1,7 +1,7 @@
-# challenge-amigo-secreto-alura
+# Challenge-amigo-secreto-alura
 Aplicación que permite los usuarios ingresar nombres de sus amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
-<h2> Funcionalidades </h2>
+<h2> Funcionalidades desarrolladas </h2>
 <h3> Array para almacenar los nombres </h3>
 - Completado
 <h3> Implementar función para agregar amigos </h3>
